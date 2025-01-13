@@ -16,6 +16,6 @@ Um simples carrinho de compras feito com HTML, CSS e JavaScript.
 
 ## 📸 Imagem e Link para acesso
 
-Acesse aqui: [Sorteador de números](https://sorteador-numeros-wine.vercel.app/)
+Acesse aqui: [Sorteador de números](https://carrinho-de-compras-psi-liard.vercel.app/)
 
 ![Imagem do Programa](./assets/programa.PNG)
